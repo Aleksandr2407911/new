@@ -1,1 +1,1 @@
-pritn('This is new file')
+pritn('This is new file_new')
